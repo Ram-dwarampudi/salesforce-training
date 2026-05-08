@@ -22,3 +22,9 @@ Accounts == college
 contact == parent /student
 
 oppurtunity == admission process
+
+<img width="1898" height="909" alt="Screenshot 2026-05-08 223336" src="https://github.com/user-attachments/assets/ad2b0d34-2a81-4ff1-9bc0-8fe799f82d3a" />
+
+<img width="1902" height="906" alt="Screenshot 2026-05-08 223413" src="https://github.com/user-attachments/assets/46f9a7e4-7e54-4a9c-a2bd-ddb8a298165e" />
+
+<img width="1919" height="881" alt="Screenshot 2026-05-08 223432" src="https://github.com/user-attachments/assets/78539219-e773-4f5b-888a-579331dcdbf6" />
